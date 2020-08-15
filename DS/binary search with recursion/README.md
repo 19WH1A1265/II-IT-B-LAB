@@ -5,6 +5,7 @@ To write a program to search an element in array by using binary search recursiv
 Binary search is used to find the position of an element in a sorted array.The array should be sorted prior to applying a binary search.
 
 ### Step by Step procedure:
+
                  ARRAY = { 3,6,8,10,14,15,20,30,66,99 }
 CASE-1:   key element = 6
                         Iteration-1:       low = 0 ; high = 9 ; mid = 4
